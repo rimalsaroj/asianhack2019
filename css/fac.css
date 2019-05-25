@@ -1,0 +1,121 @@
+
+body{
+  color: grey;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,{
+  font-family: "Raleway",sans-serif;
+}
+/*p{
+  font-family: "open Sans", sans-serif;
+font-size: 13px;
+font-weight: 400px;
+line-height: 24
+}*/
+section{
+  background: #fff;
+  overflow: hidden;
+}
+
+
+#preloader{
+ background-color: #fff;
+ position: fixed;
+ top: 0;
+ bottom: o;
+ left: 0;
+ z-index: 9999;
+}
+#status {
+  background-image: url(".../img/preloader/preloader.gif");
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -35%;
+  margin-left: -35%;
+}
+
+.color{
+  background-color:#BDB76B;
+  font-weight: bold;
+    }
+    .nav>li>a{
+      color: white !important;
+      padding-right: 15px;
+    }
+.we{
+  padding-right: 15 px;
+  color: #f4c613;
+}
+  /*news css
+*/
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+  color: whitesmoke;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.container {
+  position: relative;
+}
+
+.card:hover{
+
+    background-color:lightgoldenrodyellow;
+}
+.caption>p{
+     background color: ;
+    color:dimgrey;
+
+}
+.caption>p:hover{
+
+    background-color:lightgoldenrodyellow;
+}
+
+.bottom-right1 {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+    color:cornsilk;
+}
+
+
+
+.hleft img
+{
+    height:350px;
+    width:500px;
+    float:right;
+    background-color: azure;
+}
+.hleft img:hover{
+    background-color: aquamarine;
+}
+
+.padding1 {
+
+  padding-left: 20px;
+}
+.explore{
+  position: right;
+  padding-bottom: 5%;
+}
+.par{
+  padding-left: 400px;
+}
